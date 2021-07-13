@@ -1,5 +1,5 @@
 # ONE-TA
-Single terminal manager for to manage all Smartvision TA devices.
+Single terminal manager for to manage all TA devices.
 
 # WIP
 
@@ -17,5 +17,5 @@ Single terminal manager for to manage all Smartvision TA devices.
 
 
 # About
-Single terminal manager for to manage all Smartvision TA devices.
+Single terminal manager for to manage all TA devices.
 
