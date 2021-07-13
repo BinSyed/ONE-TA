@@ -1,5 +1,5 @@
 # ONE-TA
-Smart vision RandD private repo.
+Single terminal manager for to manage all Smartvision TA devices.
 
 # WIP
 
